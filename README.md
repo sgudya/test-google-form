@@ -25,4 +25,8 @@ List of available browsers:
 
 ## Test results
 
+<<<<<<< HEAD
 Report can be found in ./target/surefire-reports after the test run
+=======
+Report can be found in ./target/surefire-reports after the test run# google-form-test
+>>>>>>> 410e073... Add files via upload
